@@ -1,0 +1,9 @@
+earthengine-api
+geopandas
+rasterio
+xarray
+xee
+tensorflow
+scikit-learn
+matplotlib
+folium
