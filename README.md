@@ -10,6 +10,7 @@
    - [3.3. Instalar as Dependências](#33-instalar-as-dependências)
    - [3.4. Baixar e Organizar os Datasets](#34-baixar-e-organizar-os-datasets)
    - [3.5. Passos para Execução no Jupyter Notebook](#35-passos-para-execução-no-jupyter-notebook)
+   - [3.6. Download Opcional dos Pesos Pré-treinados](#36-download-opcional-dos-pesos-pré-treinados)
 4. [Resultados Obtidos](#4-resultados-obtidos)
    - [4.1. Resultado do treinamento em imagens da validação](#41-resultado-do-treinamento-em-imagens-da-validação)
    - [4.2. Comparação Visual: Modelo vs. Baseline (GIF)](#42-comparação-visual-modelo-vs-baseline-gif)
@@ -202,7 +203,7 @@ Execute o bloco de inferência para gerar o arquivo html do folium e o arquivo g
 
 ![Lista de Imagens para Varredura e Inferência](docs/images/06_inferencia_municipios.png)
 
-### 6. Download Opcional dos Pesos Pré-treinados
+### 3.6 Download Opcional dos Pesos Pré-treinados
 
 Caso não deseje treinar o modelo localmente em sua máquina, você pode fazer o download dos pesos pré-treinados no botão abaixo:
 
