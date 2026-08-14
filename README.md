@@ -250,8 +250,8 @@ Em maior detalhamento espacial, é possível notar a elevada concordância entre
 
 O mapa completo com seletores de camada e alternância de visualização está disponível em formato HTML interativo:
 
-* **[Clique aqui para abrir o Mapa Interativo no Navegador](https://www.google.com/search?q=https://SEU_USUARIO.github.io/SEU_REPOSITORIO/outputs/mapa_satlas.html)**
-*(Alternativa via preview direto: [Visualizar via HTMLPreview](https://htmlpreview.github.io/?https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/outputs/mapa_satlas.html))*
+* **[Clique aqui para abrir o Mapa Interativo no Navegador](https://danielnaiff.github.io/initial-challenge-semantic-segmentation/)**
+
 
 > **Recursos do Mapa:**
 > * Seletores laterais para ativar/desativar as camadas vermelha (modelo) e verde (referência).
