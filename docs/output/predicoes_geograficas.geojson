@@ -1,0 +1,4397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.682814792443054,
+          -9.038487042894975
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.5877088904380798,
+        "area": 197.0,
+        "aspect_ratio": 28.531239198768745,
+        "eccentricity": 0.9993855844849219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.591184196254076,
+          -9.057819412802814
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.6669282913208008,
+        "area": 532.0,
+        "aspect_ratio": 37.904235049250666,
+        "eccentricity": 0.9996519271726673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.576327321701676,
+          -9.151855816657259
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.5875152349472046,
+        "area": 157.0,
+        "aspect_ratio": 20.993127027145757,
+        "eccentricity": 0.9988648263362623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.47320682590197,
+          -9.198704803424981
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.5911967158317566,
+        "area": 239.0,
+        "aspect_ratio": 11.798078722298476,
+        "eccentricity": 0.996401433375741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.265125289091046,
+          -9.273672617537123
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.6481694579124451,
+        "area": 393.0,
+        "aspect_ratio": 29.27436664679285,
+        "eccentricity": 0.9994163913285763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36373446197341,
+          -9.309885854558754
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000019200.tif",
+        "score": 0.6568114757537842,
+        "area": 313.0,
+        "aspect_ratio": 25.76091807255568,
+        "eccentricity": 0.9992462782793209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9685140305488,
+          -5.844365392619554
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000000000.tif",
+        "score": 0.658743143081665,
+        "area": 166.0,
+        "aspect_ratio": 10.261403980196317,
+        "eccentricity": 0.9952401721208536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.92624582810274,
+          -8.905555388917051
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000032000-0000012800.tif",
+        "score": 0.6554754376411438,
+        "area": 213.0,
+        "aspect_ratio": 18.03391713840838,
+        "eccentricity": 0.9984614057868203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.18702995351697,
+          -8.926392903427109
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000032000-0000012800.tif",
+        "score": 0.597613513469696,
+        "area": 152.0,
+        "aspect_ratio": 16.636992093229555,
+        "eccentricity": 0.9981919385898957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.85214345176507,
+          -8.936216958120742
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000032000-0000012800.tif",
+        "score": 0.5852574706077576,
+        "area": 171.0,
+        "aspect_ratio": 32.60362393181033,
+        "eccentricity": 0.9995295207983884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.04982697878632,
+          -7.985705384324562
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000025600-0000012800.tif",
+        "score": 0.5775097012519836,
+        "area": 166.0,
+        "aspect_ratio": 30.846822939667014,
+        "eccentricity": 0.999474390419422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.66661213037887,
+          -8.002714729229226
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000025600-0000006400.tif",
+        "score": 0.6226515173912048,
+        "area": 146.0,
+        "aspect_ratio": 12.106612289251897,
+        "eccentricity": 0.996582823583451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.67045193361656,
+          -8.392606156428647
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000025600-0000006400.tif",
+        "score": 0.6613650321960449,
+        "area": 293.0,
+        "aspect_ratio": 22.61657043254999,
+        "eccentricity": 0.9990220223660266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.32975160657962,
+          -8.881233307928753
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000032000-0000006400.tif",
+        "score": 0.636560320854187,
+        "area": 224.0,
+        "aspect_ratio": 18.273593289365124,
+        "eccentricity": 0.9985015315438034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.74013615425555,
+          -7.564560420418252
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000019200-0000006400.tif",
+        "score": 0.6453495025634766,
+        "area": 383.0,
+        "aspect_ratio": 24.06941162131287,
+        "eccentricity": 0.9991365710860393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.35408156431475,
+          -7.776891218607308
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000019200-0000006400.tif",
+        "score": 0.6290581226348877,
+        "area": 189.0,
+        "aspect_ratio": 16.411473913453616,
+        "eccentricity": 0.998141859675011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.759848858656504,
+          -6.046447946582438
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000012800.tif",
+        "score": 0.6380873918533325,
+        "area": 191.0,
+        "aspect_ratio": 16.537219546517694,
+        "eccentricity": 0.9981700358838239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.194862643722246,
+          -7.3629715609117286
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000019200-0000012800.tif",
+        "score": 0.6448915004730225,
+        "area": 158.0,
+        "aspect_ratio": 12.771054235451153,
+        "eccentricity": 0.996929679376533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.80511734464715,
+          -9.045660626853453
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6646099090576172,
+        "area": 411.0,
+        "aspect_ratio": 31.11598313580409,
+        "eccentricity": 0.9994834467098859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.77289156263302,
+          -9.06324529738175
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6288948655128479,
+        "area": 161.0,
+        "aspect_ratio": 7.56834383164285,
+        "eccentricity": 0.9912324889378881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.05702046841891,
+          -9.072866056472714
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6476693749427795,
+        "area": 349.0,
+        "aspect_ratio": 24.834285477952086,
+        "eccentricity": 0.9991889589856476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.04851560173996,
+          -9.139779218304039
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6419905424118042,
+        "area": 343.0,
+        "aspect_ratio": 28.41792367837423,
+        "eccentricity": 0.9993806732718513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.85056846264496,
+          -9.133021501514937
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6485926508903503,
+        "area": 312.0,
+        "aspect_ratio": 28.88490651842352,
+        "eccentricity": 0.9994005426884333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.771230367227005,
+          -9.150687727440497
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6361428499221802,
+        "area": 157.0,
+        "aspect_ratio": 14.578965469200906,
+        "eccentricity": 0.997644797157204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.915857171171155,
+          -9.165915742801706
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6346117258071899,
+        "area": 361.0,
+        "aspect_ratio": 29.5797562003149,
+        "eccentricity": 0.9994283832231908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.812334477558494,
+          -9.167715264855854
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6105504631996155,
+        "area": 199.0,
+        "aspect_ratio": 24.26150206065157,
+        "eccentricity": 0.9991501951484604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0523813024231,
+          -9.180279833605399
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.594976544380188,
+        "area": 159.0,
+        "aspect_ratio": 18.044035165348834,
+        "eccentricity": 0.9984631321357847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.04035849803247,
+          -9.177947212170993
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000038400-0000012800.tif",
+        "score": 0.6124818921089172,
+        "area": 253.0,
+        "aspect_ratio": 25.65757075471053,
+        "eccentricity": 0.9992401918362677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.00735653377076,
+          -6.996447901668878
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6461783051490784,
+        "area": 175.0,
+        "aspect_ratio": 12.404204737448367,
+        "eccentricity": 0.9967450859575382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.31428344788862,
+          -7.054237258408789
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6172901391983032,
+        "area": 184.0,
+        "aspect_ratio": 11.892253489330965,
+        "eccentricity": 0.9964583027012947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.30960957732387,
+          -7.084833567647368
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6678223013877869,
+        "area": 186.0,
+        "aspect_ratio": 13.233577593316475,
+        "eccentricity": 0.9971408511315486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.254479801221564,
+          -7.186443527816022
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6556795835494995,
+        "area": 164.0,
+        "aspect_ratio": 14.021562922494555,
+        "eccentricity": 0.9974535775483825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.06869304323962,
+          -7.212376714292885
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6209367513656616,
+        "area": 190.0,
+        "aspect_ratio": 16.074827965174325,
+        "eccentricity": 0.998063140472187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.16555253280627,
+          -7.259032333531666
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000012800.tif",
+        "score": 0.6510136723518372,
+        "area": 197.0,
+        "aspect_ratio": 15.724027288697163,
+        "eccentricity": 0.9979756657277389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.62995245351869,
+          -6.813041771203818
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6556172966957092,
+        "area": 216.0,
+        "aspect_ratio": 16.393654468117454,
+        "eccentricity": 0.9981378142159486
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.436613441715274,
+          -6.833177902167986
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6554291248321533,
+        "area": 286.0,
+        "aspect_ratio": 19.26766838083014,
+        "eccentricity": 0.9986522652266273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.580989048218655,
+          -6.8839145111632325
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6359636187553406,
+        "area": 178.0,
+        "aspect_ratio": 16.261931060645978,
+        "eccentricity": 0.9981074955046471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64983025700306,
+          -6.92606836249063
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6583859920501709,
+        "area": 236.0,
+        "aspect_ratio": 16.707070657704623,
+        "eccentricity": 0.9982070883628044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5401850648273,
+          -6.935614044350434
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6456313729286194,
+        "area": 150.0,
+        "aspect_ratio": 13.407817771134887,
+        "eccentricity": 0.9972147830430659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.337512796494686,
+          -7.150541956225458
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.6262502670288086,
+        "area": 209.0,
+        "aspect_ratio": 15.542586708727912,
+        "eccentricity": 0.9979280772832446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64679355197223,
+          -7.2674315878287405
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000012800-0000006400.tif",
+        "score": 0.613063633441925,
+        "area": 267.0,
+        "aspect_ratio": 12.352903774091638,
+        "eccentricity": 0.9967179502415501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.25977034526401,
+          -6.370833349825729
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000012800.tif",
+        "score": 0.6533495187759399,
+        "area": 151.0,
+        "aspect_ratio": 12.061827079583145,
+        "eccentricity": 0.996557356810877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.00080015827674,
+          -6.677995506459047
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000012800.tif",
+        "score": 0.6412577033042908,
+        "area": 160.0,
+        "aspect_ratio": 11.131596461744524,
+        "eccentricity": 0.9959567185596859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.397384139258705,
+          -6.195228121409388
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6341846585273743,
+        "area": 233.0,
+        "aspect_ratio": 22.929009631556703,
+        "eccentricity": 0.9990485059554995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.77873404825537,
+          -6.2341400352171705
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6691855192184448,
+        "area": 505.0,
+        "aspect_ratio": 34.67900888306194,
+        "eccentricity": 0.9995841593332855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.74986973570212,
+          -6.224813537939931
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6335613131523132,
+        "area": 225.0,
+        "aspect_ratio": 19.308089175871523,
+        "eccentricity": 0.9986579059770349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.83291757467099,
+          -6.29612675012462
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6280390620231628,
+        "area": 216.0,
+        "aspect_ratio": 17.816601864404277,
+        "eccentricity": 0.998423613536722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.560198079193434,
+          -6.534015194285202
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6580296158790588,
+        "area": 172.0,
+        "aspect_ratio": 15.028454125814163,
+        "eccentricity": 0.9977837287720718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.65461843363,
+          -6.586354516556035
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000006400.tif",
+        "score": 0.6663416624069214,
+        "area": 278.0,
+        "aspect_ratio": 18.244749535186283,
+        "eccentricity": 0.9984967862683534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.231618783480656,
+          -6.416564496497374
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000006400-0000000000.tif",
+        "score": 0.6135647892951965,
+        "area": 248.0,
+        "aspect_ratio": 25.107347155155928,
+        "eccentricity": 0.999206511407942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.53033392349705,
+          -5.709409011956246
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000006400.tif",
+        "score": 0.6697468161582947,
+        "area": 273.0,
+        "aspect_ratio": 20.374764337125132,
+        "eccentricity": 0.9987948347709398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.488085261258135,
+          -5.86170240452032
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000006400.tif",
+        "score": 0.6564488410949707,
+        "area": 408.0,
+        "aspect_ratio": 31.134033828745252,
+        "eccentricity": 0.9994840456587977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.42048530566743,
+          -5.949997568521784
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000006400.tif",
+        "score": 0.6469754576683044,
+        "area": 293.0,
+        "aspect_ratio": 16.536457026794196,
+        "eccentricity": 0.9981698669606816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.36788974189227,
+          -6.105771387553339
+        ]
+      },
+      "properties": {
+        "municipio": "Jacareacanga",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_jacareacanga-0000000000-0000006400.tif",
+        "score": 0.5782303810119629,
+        "area": 232.0,
+        "aspect_ratio": 33.57786291447031,
+        "eccentricity": 0.9995564319759641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.867941324478345,
+          -4.180517581000065
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000000000-0000019200.tif",
+        "score": 0.6083914041519165,
+        "area": 322.0,
+        "aspect_ratio": 27.419751376868714,
+        "eccentricity": 0.9993347460509947
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.10404475168011,
+          -4.227152319865774
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000000000-0000019200.tif",
+        "score": 0.6544727087020874,
+        "area": 406.0,
+        "aspect_ratio": 15.909908742354945,
+        "eccentricity": 0.9980227381067324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.46865956071603,
+          -4.779323862696977
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000000000.tif",
+        "score": 0.6274631023406982,
+        "area": 188.0,
+        "aspect_ratio": 17.79511972870427,
+        "eccentricity": 0.998419802221799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.470030477443096,
+          -4.790753023774596
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000000000.tif",
+        "score": 0.6541857719421387,
+        "area": 363.0,
+        "aspect_ratio": 24.772746088015285,
+        "eccentricity": 0.9991849228287449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.21765309946565,
+          -4.304701850539465
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000012800.tif",
+        "score": 0.6734070777893066,
+        "area": 702.0,
+        "aspect_ratio": 48.759365210984505,
+        "eccentricity": 0.9997896707887609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.181490902239624,
+          -4.350895109831453
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000012800.tif",
+        "score": 0.652378499507904,
+        "area": 363.0,
+        "aspect_ratio": 27.16451803809022,
+        "eccentricity": 0.9993221818285465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.31707016678572,
+          -4.416649807690863
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000012800.tif",
+        "score": 0.6328906416893005,
+        "area": 212.0,
+        "aspect_ratio": 20.08288065230646,
+        "eccentricity": 0.9987595266496916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.27065262878588,
+          -4.46214752120992
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000012800.tif",
+        "score": 0.6350188851356506,
+        "area": 163.0,
+        "aspect_ratio": 14.60080404444356,
+        "eccentricity": 0.9976518455764329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6597727048768,
+          -4.66795021532929
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000012800.tif",
+        "score": 0.5985679626464844,
+        "area": 176.0,
+        "aspect_ratio": 20.24211004830142,
+        "eccentricity": 0.9987789775087169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.00089975731938,
+          -4.242334357451282
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6598173379898071,
+        "area": 570.0,
+        "aspect_ratio": 37.18360678580496,
+        "eccentricity": 0.9996383024845605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.038601300059234,
+          -4.277009649458925
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6517931222915649,
+        "area": 471.0,
+        "aspect_ratio": 34.28376822811249,
+        "eccentricity": 0.999574513969057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.70223999489778,
+          -4.281246156991024
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6390042901039124,
+        "area": 185.0,
+        "aspect_ratio": 14.485399457299819,
+        "eccentricity": 0.9976142363160106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.087406070401315,
+          -4.291898303001598
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6168798804283142,
+        "area": 183.0,
+        "aspect_ratio": 18.593161290508736,
+        "eccentricity": 0.9985526354346337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.106432192826794,
+          -4.313445020228774
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6340684294700623,
+        "area": 166.0,
+        "aspect_ratio": 14.100787771756458,
+        "eccentricity": 0.9974821471727845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.073693922732666,
+          -4.304633327249262
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6507971286773682,
+        "area": 511.0,
+        "aspect_ratio": 42.05049637027947,
+        "eccentricity": 0.9997171936439179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.089608798754824,
+          -4.3242901340378195
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6439960598945618,
+        "area": 439.0,
+        "aspect_ratio": 37.1798043884293,
+        "eccentricity": 0.9996382284854144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.785078327046534,
+          -4.356993409926649
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6288663744926453,
+        "area": 176.0,
+        "aspect_ratio": 16.38225835036589,
+        "eccentricity": 0.9981352200802628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0536564132134,
+          -4.379405875555912
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6415290236473083,
+        "area": 236.0,
+        "aspect_ratio": 20.06197927343128,
+        "eccentricity": 0.998756938943606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.77039076717086,
+          -4.477226760025195
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000006400-0000019200.tif",
+        "score": 0.6353514790534973,
+        "area": 154.0,
+        "aspect_ratio": 10.24329981842652,
+        "eccentricity": 0.9952232916572074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.51572121295003,
+          -4.893085372416922
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6497002840042114,
+        "area": 162.0,
+        "aspect_ratio": 13.834959765742619,
+        "eccentricity": 0.9973843323562276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.42631717291544,
+          -4.8956822250489225
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6274769306182861,
+        "area": 216.0,
+        "aspect_ratio": 17.146948606358773,
+        "eccentricity": 0.9982979745116378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.440613961926765,
+          -5.022055774974576
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6586948037147522,
+        "area": 192.0,
+        "aspect_ratio": 12.267994251632361,
+        "eccentricity": 0.9966722853199074
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.58050549595527,
+          -5.040837373951235
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6694218516349792,
+        "area": 181.0,
+        "aspect_ratio": 13.568331167293277,
+        "eccentricity": 0.9972803808287084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.52807268717869,
+          -5.046298952020322
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6439677476882935,
+        "area": 154.0,
+        "aspect_ratio": 16.827301573725244,
+        "eccentricity": 0.9982326401074233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57652058591631,
+          -5.103327128383973
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6294194459915161,
+        "area": 151.0,
+        "aspect_ratio": 12.56625144591992,
+        "eccentricity": 0.9968286241453385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.550335321416675,
+          -5.1100685054275985
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6748765707015991,
+        "area": 167.0,
+        "aspect_ratio": 12.754578400124082,
+        "eccentricity": 0.9969217297732935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.56738570152053,
+          -5.144603861618623
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6546592116355896,
+        "area": 149.0,
+        "aspect_ratio": 10.493265039040777,
+        "eccentricity": 0.9954486717985884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.54493632252252,
+          -5.156185982963278
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6534757614135742,
+        "area": 277.0,
+        "aspect_ratio": 21.331593562223887,
+        "eccentricity": 0.9989005836164829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.51853519467404,
+          -5.160305480814823
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6426888704299927,
+        "area": 162.0,
+        "aspect_ratio": 12.260431602553043,
+        "eccentricity": 0.9966681718956985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.49771278780687,
+          -5.156631842725218
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6500492095947266,
+        "area": 195.0,
+        "aspect_ratio": 16.04683965021413,
+        "eccentricity": 0.9980563715954874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.62126142797249,
+          -5.178991017678684
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6491585969924927,
+        "area": 199.0,
+        "aspect_ratio": 15.433579253079033,
+        "eccentricity": 0.9978986749960714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64909288461897,
+          -5.1866195151604595
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6321961283683777,
+        "area": 147.0,
+        "aspect_ratio": 10.56964379226441,
+        "eccentricity": 0.9955143597517004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.49834594058149,
+          -5.184669879876794
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6634488701820374,
+        "area": 203.0,
+        "aspect_ratio": 16.140303679499237,
+        "eccentricity": 0.9980788380504428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3846079884827,
+          -5.18727079331721
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6615120768547058,
+        "area": 161.0,
+        "aspect_ratio": 12.5104452009478,
+        "eccentricity": 0.9968002219573442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.59046975566062,
+          -5.2007070202840024
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6390663981437683,
+        "area": 199.0,
+        "aspect_ratio": 14.98452890933566,
+        "eccentricity": 0.9977707017638463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.58956140674055,
+          -5.260824905290246
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6710078120231628,
+        "area": 176.0,
+        "aspect_ratio": 12.44297222254127,
+        "eccentricity": 0.996765369324547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.47167088620398,
+          -5.2586792279876065
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6526767611503601,
+        "area": 153.0,
+        "aspect_ratio": 11.543360288001317,
+        "eccentricity": 0.9962405646421901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.53376173031685,
+          -5.275196475882239
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6436589360237122,
+        "area": 180.0,
+        "aspect_ratio": 11.815796018944825,
+        "eccentricity": 0.99641223650243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.66039820407676,
+          -5.311237588792985
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6662331223487854,
+        "area": 157.0,
+        "aspect_ratio": 12.92205789418268,
+        "eccentricity": 0.9970011252641388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.52014661144879,
+          -5.359124758654461
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6692826151847839,
+        "area": 218.0,
+        "aspect_ratio": 15.74997968928971,
+        "eccentricity": 0.9979823382587343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.474348456911216,
+          -5.3534175090530285
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6404367685317993,
+        "area": 187.0,
+        "aspect_ratio": 14.64242639456435,
+        "eccentricity": 0.9976651918612858
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.65001026009376,
+          -5.385398425130245
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000000000.tif",
+        "score": 0.6363850831985474,
+        "area": 173.0,
+        "aspect_ratio": 14.295536828366151,
+        "eccentricity": 0.9975503653054324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.942798146226544,
+          -5.006248752512599
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6517879962921143,
+        "area": 266.0,
+        "aspect_ratio": 22.397929680532503,
+        "eccentricity": 0.9990028262482122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01987748190312,
+          -5.026565460403467
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6689833998680115,
+        "area": 221.0,
+        "aspect_ratio": 15.911407823494109,
+        "eccentricity": 0.9980231110305999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.73012265053241,
+          -5.145998196430493
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6126251816749573,
+        "area": 172.0,
+        "aspect_ratio": 13.661743805430591,
+        "eccentricity": 0.9973174945052729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.04155575339886,
+          -5.155241307329936
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6336168646812439,
+        "area": 187.0,
+        "aspect_ratio": 16.889775458178136,
+        "eccentricity": 0.9982457020303532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.774393067090685,
+          -5.265776680464898
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6401051878929138,
+        "area": 161.0,
+        "aspect_ratio": 13.839059401929134,
+        "eccentricity": 0.9973858838703471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71630380226939,
+          -5.295752659123397
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6429879069328308,
+        "area": 227.0,
+        "aspect_ratio": 17.72112253797113,
+        "eccentricity": 0.9984065674135701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.135108491333376,
+          -5.372128806935101
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000006400.tif",
+        "score": 0.6400971412658691,
+        "area": 169.0,
+        "aspect_ratio": 9.726726360837938,
+        "eccentricity": 0.9947010626524025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6487964398042,
+          -5.231815112543962
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000012800.tif",
+        "score": 0.6446861028671265,
+        "area": 204.0,
+        "aspect_ratio": 16.460776199288745,
+        "eccentricity": 0.9981529840599586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.66473705150469,
+          -5.320203091905334
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000012800-0000012800.tif",
+        "score": 0.6569973230361938,
+        "area": 160.0,
+        "aspect_ratio": 12.323457142411147,
+        "eccentricity": 0.9967022207510874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.704392886825524,
+          -5.438221067314732
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000000000.tif",
+        "score": 0.6673642992973328,
+        "area": 158.0,
+        "aspect_ratio": 11.895061149650338,
+        "eccentricity": 0.9964599774082223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.45543721478116,
+          -5.454120720610812
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000000000.tif",
+        "score": 0.6169512271881104,
+        "area": 190.0,
+        "aspect_ratio": 19.140863566721904,
+        "eccentricity": 0.9986343368205861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.61856092017803,
+          -5.490008272887553
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000000000.tif",
+        "score": 0.6491658091545105,
+        "area": 152.0,
+        "aspect_ratio": 13.9942159560047,
+        "eccentricity": 0.9974436028137784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.76022117546019,
+          -5.490171178613616
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000000000.tif",
+        "score": 0.6368522644042969,
+        "area": 175.0,
+        "aspect_ratio": 15.268027850224458,
+        "eccentricity": 0.9978528092656517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.74174572184532,
+          -5.423250666456792
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6643023490905762,
+        "area": 211.0,
+        "aspect_ratio": 14.575744525530476,
+        "eccentricity": 0.9976437549088096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.877163520366764,
+          -5.46219370642895
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6367321014404297,
+        "area": 217.0,
+        "aspect_ratio": 13.28762008271019,
+        "eccentricity": 0.9971640939061936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.849754392513056,
+          -5.468308584127222
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6575855612754822,
+        "area": 287.0,
+        "aspect_ratio": 23.22617475525322,
+        "eccentricity": 0.999072709029293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.21187486680601,
+          -5.566477587158967
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6605042815208435,
+        "area": 214.0,
+        "aspect_ratio": 16.295773378619522,
+        "eccentricity": 0.9981153552897363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.14161610786247,
+          -5.5711850813962664
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6276792287826538,
+        "area": 217.0,
+        "aspect_ratio": 19.94071034288647,
+        "eccentricity": 0.9987417641277648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71097516084492,
+          -5.6130846203896105
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6460161805152893,
+        "area": 192.0,
+        "aspect_ratio": 18.403229217499174,
+        "eccentricity": 0.9985225837587423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.850644515221724,
+          -5.649766844947953
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.661609411239624,
+        "area": 161.0,
+        "aspect_ratio": 11.394051933602743,
+        "eccentricity": 0.9961411992663906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.85460543786149,
+          -5.700671468568403
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6457473039627075,
+        "area": 239.0,
+        "aspect_ratio": 18.79628325468677,
+        "eccentricity": 0.9985837703533872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.025815890540734,
+          -5.7809867561561585
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6590062975883484,
+        "area": 254.0,
+        "aspect_ratio": 16.54687790700087,
+        "eccentricity": 0.9981721735043145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.05166131840816,
+          -5.794578446956169
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.667125403881073,
+        "area": 300.0,
+        "aspect_ratio": 23.25186796436941,
+        "eccentricity": 0.9990747581501344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01289863252511,
+          -5.79580508074943
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.671944797039032,
+        "area": 153.0,
+        "aspect_ratio": 11.573007856277354,
+        "eccentricity": 0.9962598378171815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.838849049832326,
+          -5.793749518227643
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6467933058738708,
+        "area": 146.0,
+        "aspect_ratio": 12.053559441214803,
+        "eccentricity": 0.9965526243436919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.80724378311272,
+          -5.838536946866965
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000006400.tif",
+        "score": 0.6446170806884766,
+        "area": 194.0,
+        "aspect_ratio": 12.96195955129346,
+        "eccentricity": 0.9970195876686533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.64537338424929,
+          -5.583054291244525
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6724445223808289,
+        "area": 194.0,
+        "aspect_ratio": 14.0165923480365,
+        "eccentricity": 0.997451768892313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5464200094381,
+          -5.695543535347855
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6735082864761353,
+        "area": 288.0,
+        "aspect_ratio": 20.11894709435,
+        "eccentricity": 0.9987639729080083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.61842229735405,
+          -5.708830772495958
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6353473663330078,
+        "area": 211.0,
+        "aspect_ratio": 17.691879862602125,
+        "eccentricity": 0.9984012913119196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.43531622882561,
+          -5.716894416006049
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6551672220230103,
+        "area": 224.0,
+        "aspect_ratio": 17.040015619944796,
+        "eccentricity": 0.9982765271910455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.64865969250701,
+          -5.740563261003092
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6515582799911499,
+        "area": 157.0,
+        "aspect_ratio": 10.182795245244158,
+        "eccentricity": 0.9951662198421555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.38849191049344,
+          -5.744683106022006
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6503437757492065,
+        "area": 252.0,
+        "aspect_ratio": 21.051572877060078,
+        "eccentricity": 0.9988711243482558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.61082360704458,
+          -5.78082109484763
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6489687561988831,
+        "area": 163.0,
+        "aspect_ratio": 14.493919678070721,
+        "eccentricity": 0.9976170437731084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.65755868452014,
+          -5.807790140136429
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6632338166236877,
+        "area": 168.0,
+        "aspect_ratio": 13.963496962710508,
+        "eccentricity": 0.997432328056613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.64996687842145,
+          -5.819993070717852
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6530344486236572,
+        "area": 180.0,
+        "aspect_ratio": 14.886746083161656,
+        "eccentricity": 0.9977412862625139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.44223977881436,
+          -5.808635484439716
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6649624109268188,
+        "area": 248.0,
+        "aspect_ratio": 18.556640601882055,
+        "eccentricity": 0.9985469286621749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.692722551981625,
+          -5.840497631448924
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6523847579956055,
+        "area": 229.0,
+        "aspect_ratio": 17.36032799750611,
+        "eccentricity": 0.9983395918569323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.594869958130005,
+          -5.8369569137003525
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6445918679237366,
+        "area": 184.0,
+        "aspect_ratio": 17.225458944110528,
+        "eccentricity": 0.9983134672414417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.621901530713515,
+          -5.87058041141645
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6465291976928711,
+        "area": 181.0,
+        "aspect_ratio": 14.338101549595134,
+        "eccentricity": 0.9975649056298066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.47049521993001,
+          -5.892498802339624
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6605041027069092,
+        "area": 196.0,
+        "aspect_ratio": 13.860981971571036,
+        "eccentricity": 0.9973941571121502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.64929418321628,
+          -5.9194111883556575
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6582536101341248,
+        "area": 181.0,
+        "aspect_ratio": 10.840181836301893,
+        "eccentricity": 0.9957359352759865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.402874906302216,
+          -5.923081040410487
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6510300040245056,
+        "area": 223.0,
+        "aspect_ratio": 17.10587171107657,
+        "eccentricity": 0.998289783426694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.394197574513775,
+          -5.914167784445279
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6311749815940857,
+        "area": 198.0,
+        "aspect_ratio": 16.71560544940611,
+        "eccentricity": 0.9982089204167645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.552051460561835,
+          -5.9423426587234465
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6604104042053223,
+        "area": 280.0,
+        "aspect_ratio": 23.108643563843206,
+        "eccentricity": 0.9990632481547974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.449157779043325,
+          -5.951147378824012
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6568105220794678,
+        "area": 253.0,
+        "aspect_ratio": 17.641477809731246,
+        "eccentricity": 0.998392135811052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6476715828943,
+          -5.963801367456104
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000019200-0000012800.tif",
+        "score": 0.6599998474121094,
+        "area": 145.0,
+        "aspect_ratio": 10.330656113500181,
+        "eccentricity": 0.9953039238207114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71883798594322,
+          -6.077517638260325
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000006400.tif",
+        "score": 0.653103768825531,
+        "area": 181.0,
+        "aspect_ratio": 13.597104950101059,
+        "eccentricity": 0.9972918946131719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.63152468700306,
+          -5.989148519672197
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6655506491661072,
+        "area": 270.0,
+        "aspect_ratio": 19.514836281857917,
+        "eccentricity": 0.9986862111873472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.474687697222485,
+          -6.047866069757604
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6496405601501465,
+        "area": 168.0,
+        "aspect_ratio": 14.927305683491632,
+        "eccentricity": 0.9977535578753047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.292271416027845,
+          -6.0837066856756845
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6747179627418518,
+        "area": 270.0,
+        "aspect_ratio": 19.76658200626241,
+        "eccentricity": 0.9987194840370301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.46236074914951,
+          -6.104042422386014
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6596928834915161,
+        "area": 174.0,
+        "aspect_ratio": 13.856755536926858,
+        "eccentricity": 0.9973925651807143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.50073740645382,
+          -6.136324796783497
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.646302342414856,
+        "area": 177.0,
+        "aspect_ratio": 12.8879381883331,
+        "eccentricity": 0.9969852016814615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.35026429972383,
+          -6.131347289392677
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6504528522491455,
+        "area": 180.0,
+        "aspect_ratio": 15.262262222847847,
+        "eccentricity": 0.9978511849229313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.45451441940126,
+          -6.18601053005022
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6224648356437683,
+        "area": 146.0,
+        "aspect_ratio": 14.345669399795089,
+        "eccentricity": 0.9975674772813093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.32966852182938,
+          -6.244456783222996
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6530399322509766,
+        "area": 146.0,
+        "aspect_ratio": 10.92487578761581,
+        "eccentricity": 0.9958019312583205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.40465307744025,
+          -6.304730229634255
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6545678973197937,
+        "area": 209.0,
+        "aspect_ratio": 13.642952359484063,
+        "eccentricity": 0.9973100898178938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.14092398469255,
+          -6.312872601718699
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6490704417228699,
+        "area": 164.0,
+        "aspect_ratio": 12.370528206958674,
+        "eccentricity": 0.9967273108696021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.32923184744618,
+          -6.37636949945447
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6380535960197449,
+        "area": 208.0,
+        "aspect_ratio": 14.717594127822082,
+        "eccentricity": 0.9976890078198515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.289697198350005,
+          -6.393784406239431
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6738258600234985,
+        "area": 308.0,
+        "aspect_ratio": 22.383272745290455,
+        "eccentricity": 0.9990015192362447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.134325983330264,
+          -6.478102582677625
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.613176167011261,
+        "area": 235.0,
+        "aspect_ratio": 21.864980322702518,
+        "eccentricity": 0.9989535966876821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4228369436026,
+          -6.496346951038548
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.6756768226623535,
+        "area": 280.0,
+        "aspect_ratio": 21.099406547484573,
+        "eccentricity": 0.9988762398852606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.30488375138029,
+          -6.515083074736155
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000012800.tif",
+        "score": 0.618742048740387,
+        "area": 155.0,
+        "aspect_ratio": 16.774346967650295,
+        "eccentricity": 0.9982214538502878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.846432783020596,
+          -6.000540997160141
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6329482197761536,
+        "area": 155.0,
+        "aspect_ratio": 12.879130528547451,
+        "eccentricity": 0.9969810705619423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.81235148512068,
+          -6.104335810602673
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6009514331817627,
+        "area": 259.0,
+        "aspect_ratio": 26.515599630917354,
+        "eccentricity": 0.9992885873104426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.02118518808895,
+          -6.180519897653985
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6514784693717957,
+        "area": 226.0,
+        "aspect_ratio": 18.90305813325827,
+        "eccentricity": 0.9985997356420955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.97526913719971,
+          -6.196263608578881
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6356717348098755,
+        "area": 185.0,
+        "aspect_ratio": 16.066224118581545,
+        "eccentricity": 0.9980610634321083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9526998386792,
+          -6.2126718287576
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6550424695014954,
+        "area": 239.0,
+        "aspect_ratio": 19.177057177281693,
+        "eccentricity": 0.9986394904033071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.90415022889748,
+          -6.259732351506967
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6314764618873596,
+        "area": 200.0,
+        "aspect_ratio": 19.238452325976823,
+        "eccentricity": 0.9986481659299126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.82986638103514,
+          -6.257980816410072
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.5815169811248779,
+        "area": 160.0,
+        "aspect_ratio": 18.94980387579886,
+        "eccentricity": 0.9986066403333158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.90100931240818,
+          -6.283078767211749
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6303490400314331,
+        "area": 251.0,
+        "aspect_ratio": 23.141786833952896,
+        "eccentricity": 0.9990659306866492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.794183308588124,
+          -6.3181839224672895
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6710873246192932,
+        "area": 269.0,
+        "aspect_ratio": 17.61569203306374,
+        "eccentricity": 0.9983874213918269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.04850366349774,
+          -6.357069477054419
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000019200.tif",
+        "score": 0.6683201193809509,
+        "area": 262.0,
+        "aspect_ratio": 20.83127630840705,
+        "eccentricity": 0.9988471078957002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.346519076057,
+          -6.012740900842866
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000025600.tif",
+        "score": 0.6433293223381042,
+        "area": 241.0,
+        "aspect_ratio": 22.837398361989212,
+        "eccentricity": 0.9990408532152254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.29295349394848,
+          -6.325282640634029
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000025600.tif",
+        "score": 0.6540921330451965,
+        "area": 194.0,
+        "aspect_ratio": 16.200232700619644,
+        "eccentricity": 0.9980930391038513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4467895907614,
+          -6.42244278884923
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000025600-0000025600.tif",
+        "score": 0.658725917339325,
+        "area": 486.0,
+        "aspect_ratio": 34.01552140723985,
+        "eccentricity": 0.9995677752756369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.84287479594377,
+          -6.837975007457618
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6436960697174072,
+        "area": 337.0,
+        "aspect_ratio": 25.893690775399477,
+        "eccentricity": 0.9992539909195772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.787262462717585,
+          -6.831802075016459
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6349824070930481,
+        "area": 247.0,
+        "aspect_ratio": 21.4089546940736,
+        "eccentricity": 0.9989085190633753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.77940821036413,
+          -6.839464100105928
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6434489488601685,
+        "area": 184.0,
+        "aspect_ratio": 14.071484696505378,
+        "eccentricity": 0.9974716363758991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.74431018814011,
+          -6.965073198559542
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6473379135131836,
+        "area": 211.0,
+        "aspect_ratio": 11.57102527146482,
+        "eccentricity": 0.9962585536182672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.906584347993714,
+          -7.010710139147426
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6404309272766113,
+        "area": 202.0,
+        "aspect_ratio": 19.259668603692006,
+        "eccentricity": 0.9986511446362458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.85167257694765,
+          -7.09365334779948
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6679271459579468,
+        "area": 226.0,
+        "aspect_ratio": 15.428763728781835,
+        "eccentricity": 0.9978973617057422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.840101026105586,
+          -7.10730226230583
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6518719792366028,
+        "area": 163.0,
+        "aspect_ratio": 9.153832825130353,
+        "eccentricity": 0.9940149796692342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.81168364040405,
+          -7.118256328589643
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000006400.tif",
+        "score": 0.6297211050987244,
+        "area": 177.0,
+        "aspect_ratio": 16.423371435315048,
+        "eccentricity": 0.9981445533725649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.54482165973168,
+          -6.559113123976744
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.624488890171051,
+        "area": 197.0,
+        "aspect_ratio": 18.125748725638786,
+        "eccentricity": 0.9984769683019553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.319654970637664,
+          -6.559519804798437
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6165784597396851,
+        "area": 198.0,
+        "aspect_ratio": 19.86909824581065,
+        "eccentricity": 0.9987326721641973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.515821026261705,
+          -6.615127339463378
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.649683952331543,
+        "area": 176.0,
+        "aspect_ratio": 14.691904115842474,
+        "eccentricity": 0.9976809094298686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.15826423241921,
+          -6.663764931926868
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6550729274749756,
+        "area": 228.0,
+        "aspect_ratio": 20.66719969051079,
+        "eccentricity": 0.9988287188666704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.26591344099621,
+          -6.704471841613461
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6367620229721069,
+        "area": 220.0,
+        "aspect_ratio": 20.00760828469313,
+        "eccentricity": 0.998750169454985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.24409162874212,
+          -6.759565402508433
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6314998269081116,
+        "area": 172.0,
+        "aspect_ratio": 14.485136179283653,
+        "eccentricity": 0.9976141494854931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.49007796801731,
+          -6.802323347670287
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.5817458033561707,
+        "area": 177.0,
+        "aspect_ratio": 26.659520226730713,
+        "eccentricity": 0.9992962503536258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.62773395626231,
+          -6.85000154250291
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.657707691192627,
+        "area": 307.0,
+        "aspect_ratio": 22.42151153411991,
+        "eccentricity": 0.9990049237468153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.32953223202015,
+          -6.863075915775503
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6545125246047974,
+        "area": 154.0,
+        "aspect_ratio": 11.984583459853054,
+        "eccentricity": 0.9965127585202875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.540191175871904,
+          -6.91248940140363
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.62005615234375,
+        "area": 147.0,
+        "aspect_ratio": 13.915584807745184,
+        "eccentricity": 0.9974145933797035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.403350314983435,
+          -6.9136114747476745
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6388040781021118,
+        "area": 164.0,
+        "aspect_ratio": 12.826839692051566,
+        "eccentricity": 0.9969563683616988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.46432635255805,
+          -6.980889427855018
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6357743144035339,
+        "area": 162.0,
+        "aspect_ratio": 8.173683177420374,
+        "eccentricity": 0.992487772435387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.30220269383692,
+          -7.001063302339085
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6043989658355713,
+        "area": 181.0,
+        "aspect_ratio": 9.032093453744087,
+        "eccentricity": 0.9938520514346648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.55729895855551,
+          -7.027253646236673
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6314324140548706,
+        "area": 309.0,
+        "aspect_ratio": 12.634513175369667,
+        "eccentricity": 0.9968628539591083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.54414202732239,
+          -7.0767551136967475
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6119657754898071,
+        "area": 202.0,
+        "aspect_ratio": 10.348572274770182,
+        "eccentricity": 0.995320208280039
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.69099079291272,
+          -7.088750970148033
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000032000-0000012800.tif",
+        "score": 0.6553992629051208,
+        "area": 159.0,
+        "aspect_ratio": 12.882357753612188,
+        "eccentricity": 0.9969825852359198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.95791793593957,
+          -7.142459130251656
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6668713092803955,
+        "area": 221.0,
+        "aspect_ratio": 16.364446066007968,
+        "eccentricity": 0.998131154537171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.72456463909538,
+          -7.146356814927894
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6432591676712036,
+        "area": 209.0,
+        "aspect_ratio": 14.931463087466561,
+        "eccentricity": 0.9977548100732487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.04840084025108,
+          -7.196952224519609
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6322462558746338,
+        "area": 163.0,
+        "aspect_ratio": 16.741525613016954,
+        "eccentricity": 0.9982144671783707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.922113174450175,
+          -7.23177295180003
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6394571661949158,
+        "area": 193.0,
+        "aspect_ratio": 18.488278981977796,
+        "eccentricity": 0.9985361552522811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.748275732391704,
+          -7.238068918081786
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6420559883117676,
+        "area": 260.0,
+        "aspect_ratio": 21.166502554426117,
+        "eccentricity": 0.9988833570165415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.74359139539016,
+          -7.273684165156708
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6678144335746765,
+        "area": 361.0,
+        "aspect_ratio": 24.537128706763394,
+        "eccentricity": 0.9991691876024935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.12097059109594,
+          -7.319981626460621
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6604152321815491,
+        "area": 259.0,
+        "aspect_ratio": 20.484843994853758,
+        "eccentricity": 0.998807760101719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.177923572242534,
+          -7.372220505215884
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6422616839408875,
+        "area": 214.0,
+        "aspect_ratio": 13.926208249175227,
+        "eccentricity": 0.9974185414707584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.76438679023305,
+          -7.394991448832635
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6516147255897522,
+        "area": 332.0,
+        "aspect_ratio": 24.083543300891023,
+        "eccentricity": 0.9991375845071313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.117212876589946,
+          -7.431998511868482
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6604288220405579,
+        "area": 153.0,
+        "aspect_ratio": 12.465015086743163,
+        "eccentricity": 0.9967768177919029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.89072332852622,
+          -7.476194875937504
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6329526901245117,
+        "area": 154.0,
+        "aspect_ratio": 15.863556713283018,
+        "eccentricity": 0.9980111548971226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.01384387558954,
+          -7.494769198786375
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6683587431907654,
+        "area": 258.0,
+        "aspect_ratio": 19.34035681772941,
+        "eccentricity": 0.9986623835636318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.907304339305036,
+          -7.499946735308504
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6381077766418457,
+        "area": 195.0,
+        "aspect_ratio": 16.763713671311873,
+        "eccentricity": 0.9982191948424035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.847478652158664,
+          -7.507619994136053
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6335599422454834,
+        "area": 148.0,
+        "aspect_ratio": 11.47480915270593,
+        "eccentricity": 0.9961954262992275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.756149581775716,
+          -7.500026876700399
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6502435207366943,
+        "area": 148.0,
+        "aspect_ratio": 11.81280238954582,
+        "eccentricity": 0.9964104145564441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.94442409575662,
+          -7.550981785469435
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6393762230873108,
+        "area": 214.0,
+        "aspect_ratio": 15.521154761945201,
+        "eccentricity": 0.9979223454606696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71173164466933,
+          -7.564488875264516
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.66489177942276,
+        "area": 306.0,
+        "aspect_ratio": 21.19961335701113,
+        "eccentricity": 0.9988868443119655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.74705303358845,
+          -7.628516978991877
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6503704786300659,
+        "area": 499.0,
+        "aspect_ratio": 34.43632406150497,
+        "eccentricity": 0.999578276290453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.78749510545663,
+          -7.640236852594036
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000006400.tif",
+        "score": 0.6617573499679565,
+        "area": 194.0,
+        "aspect_ratio": 13.795100433852141,
+        "eccentricity": 0.9973691752227771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.645557038966594,
+          -7.250019375568299
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6491512656211853,
+        "area": 160.0,
+        "aspect_ratio": 12.548954390162203,
+        "eccentricity": 0.9968198615295991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.58227121498848,
+          -7.281482969392833
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6737684607505798,
+        "area": 357.0,
+        "aspect_ratio": 26.480422053763977,
+        "eccentricity": 0.999286695245799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.349719134476,
+          -7.2740321274381
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.5926823616027832,
+        "area": 158.0,
+        "aspect_ratio": 16.66314575687196,
+        "eccentricity": 0.998197614946482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.49028639393549,
+          -7.29669764075618
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6448904871940613,
+        "area": 246.0,
+        "aspect_ratio": 22.281161148975155,
+        "eccentricity": 0.9989923418304097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.61997627955831,
+          -7.334532398096656
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6750084161758423,
+        "area": 286.0,
+        "aspect_ratio": 20.28073582461087,
+        "eccentricity": 0.9987836269180218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.520430928025675,
+          -7.389053700420426
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6442089676856995,
+        "area": 256.0,
+        "aspect_ratio": 25.154400061248666,
+        "eccentricity": 0.999209478346514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.33958684648458,
+          -7.42364015069298
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6476460099220276,
+        "area": 156.0,
+        "aspect_ratio": 15.585444757303396,
+        "eccentricity": 0.9979394684270683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.47963927522817,
+          -7.44358244930402
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6616122126579285,
+        "area": 327.0,
+        "aspect_ratio": 26.514504303260576,
+        "eccentricity": 0.9992885285106639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.627059533351336,
+          -7.473550878285812
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6659397482872009,
+        "area": 244.0,
+        "aspect_ratio": 17.01699158482824,
+        "eccentricity": 0.9982718562698978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.53365511332413,
+          -7.510700093553821
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6398736238479614,
+        "area": 278.0,
+        "aspect_ratio": 28.14277559467402,
+        "eccentricity": 0.9993685000812248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.66494389697577,
+          -7.534012935605698
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6151431202888489,
+        "area": 145.0,
+        "aspect_ratio": 15.4056652694436,
+        "eccentricity": 0.9978910451365655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.251186310326695,
+          -7.536048199839648
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6569297313690186,
+        "area": 226.0,
+        "aspect_ratio": 17.7977287626151,
+        "eccentricity": 0.9984202658482343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.36747814539319,
+          -7.558708425778075
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6425865888595581,
+        "area": 146.0,
+        "aspect_ratio": 13.157993232232245,
+        "eccentricity": 0.9971078610026368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5289312704244,
+          -7.6127486793205925
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6699338555335999,
+        "area": 258.0,
+        "aspect_ratio": 18.43506543317373,
+        "eccentricity": 0.9985276859239943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.69608875200325,
+          -7.639814491087704
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6374495029449463,
+        "area": 148.0,
+        "aspect_ratio": 11.379795526379844,
+        "eccentricity": 0.9961315059495632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.35120507655933,
+          -7.643781816408687
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.645766019821167,
+        "area": 221.0,
+        "aspect_ratio": 19.33248804691257,
+        "eccentricity": 0.9986612937302615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.59071748444825,
+          -7.651628543141446
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000038400-0000012800.tif",
+        "score": 0.6307462453842163,
+        "area": 208.0,
+        "aspect_ratio": 16.184431936013606,
+        "eccentricity": 0.998089310211299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71763103093539,
+          -7.77057940656231
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000006400.tif",
+        "score": 0.6095308065414429,
+        "area": 178.0,
+        "aspect_ratio": 14.697896769396769,
+        "eccentricity": 0.9976828023277662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.73069742649679,
+          -7.784714026253589
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000006400.tif",
+        "score": 0.6260704398155212,
+        "area": 184.0,
+        "aspect_ratio": 12.421724758543382,
+        "eccentricity": 0.9967542761030093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.713208731094525,
+          -7.7845872564233485
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000006400.tif",
+        "score": 0.6359651684761047,
+        "area": 212.0,
+        "aspect_ratio": 16.67365567053311,
+        "eccentricity": 0.998199888475045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.69531649519426,
+          -7.759463949201451
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.5926732420921326,
+        "area": 169.0,
+        "aspect_ratio": 17.255554590113586,
+        "eccentricity": 0.9983193500679438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.42282334197261,
+          -7.760571844851989
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6297879219055176,
+        "area": 220.0,
+        "aspect_ratio": 19.44220844765574,
+        "eccentricity": 0.9986763708231235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.6872483661796,
+          -7.817483157290034
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6601522564888,
+        "area": 236.0,
+        "aspect_ratio": 16.99886644481134,
+        "eccentricity": 0.998268165820215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.54044559455735,
+          -7.832999419864114
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6612709164619446,
+        "area": 257.0,
+        "aspect_ratio": 18.370029334682744,
+        "eccentricity": 0.9985172347393626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.66630735779461,
+          -7.84563337217814
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6487739682197571,
+        "area": 295.0,
+        "aspect_ratio": 19.119163494839054,
+        "eccentricity": 0.9986312329057231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.615193596474356,
+          -7.8927212736389265
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6391727328300476,
+        "area": 245.0,
+        "aspect_ratio": 17.813642786269433,
+        "eccentricity": 0.9984230893629543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.55719584607439,
+          -7.883848449640448
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6626840829849243,
+        "area": 238.0,
+        "aspect_ratio": 17.289142629189033,
+        "eccentricity": 0.9983258792740375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.671888472783415,
+          -7.906629917394824
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.5756418108940125,
+        "area": 171.0,
+        "aspect_ratio": 26.12085588670735,
+        "eccentricity": 0.9992669148625546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.61893744914459,
+          -7.899738396165584
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6539258360862732,
+        "area": 430.0,
+        "aspect_ratio": 33.16042985890673,
+        "eccentricity": 0.9995451916048292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.588710620138826,
+          -7.903324530064173
+        ]
+      },
+      "properties": {
+        "municipio": "Itaituba",
+        "tiff": "GEE_Desafio_Solved/inferencia_imagem_itaituba-0000044800-0000012800.tif",
+        "score": 0.6301803588867188,
+        "area": 236.0,
+        "aspect_ratio": 15.230776508757094,
+        "eccentricity": 0.9978422818792453
+      }
+    }
+  ]
+}

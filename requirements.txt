@@ -1,9 +1,30 @@
-earthengine-api
-geopandas
-rasterio
-xarray
-xee
-tensorflow
+# Standard / Core Data Science
+numpy
+pandas
 scikit-learn
-matplotlib
+scikit-image
+
+# Geospatial & Remote Sensing
+earthengine-api
+geemap
+geopandas
+osmnx
+pyproj
+rasterio
+shapely
 folium
+
+# Image Processing & Computer Vision
+albumentations
+opencv-python
+pillow
+satlaspretrain-models
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+
+# Utilities & Visualization
+matplotlib
+requests
+tqdm
